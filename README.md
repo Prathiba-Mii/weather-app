@@ -19,7 +19,7 @@ Real-time weather app built with React and OpenWeatherMap API.
 - Responsive design
 
 ## Live Demo
-[View Live](your-netlify-link-here)
+[View Live](https://prathiba-weather-app.netlify.app/)
 
 ## Installation
 ```bash
